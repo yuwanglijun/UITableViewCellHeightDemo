@@ -6,7 +6,6 @@
 //  Copyright © 2017年 Lenovo. All rights reserved.
 //
 
-#import "ViewController.h"
 #import "BasicViewController.h"
 
 @interface FirstViewController : BasicViewController<UITableViewDelegate,UITableViewDataSource>
